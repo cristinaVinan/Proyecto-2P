@@ -23,3 +23,5 @@ st.markdown("""This app helps you visualise production curves by year, IPR curve
 perform calculations, among other things.
 """)
 
+# Add aditional info
+expander =

@@ -24,4 +24,3 @@ perform calculations, among other things.
 """)
 
 # Add aditional info
-expander =
